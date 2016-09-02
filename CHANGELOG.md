@@ -1,8 +1,8 @@
 # Changelog
 
-All Notable changes to `:@@@package_name` will be documented in this file
+All Notable changes to `:asda` will be documented in this file
 
-## alpha - @@@date
+## alpha - 02.09.16
 
 ### Added
 - Initial commit
